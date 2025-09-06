@@ -50,9 +50,9 @@ python audio_pattern_detector_app.py
 
 Steps:
 
-1. Select the **template clip**.
-2. Select the **target audio file**.
-3. Adjust the **threshold slider**.
+1. Select the **template clip**, which is a short clip.
+2. Select the **target audio file**, which is the full song.
+3. Adjust the **threshold slider** (try to keep it in between 0.5-0.7 for the perfect result).
 4. Click **Analyze**.
 
 You’ll see results in a text box and a waveform with markers showing where the clip was detected.
